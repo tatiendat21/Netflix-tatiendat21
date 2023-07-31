@@ -8,7 +8,7 @@ Hi, welcome to my project to analyse my own Netflix data.
 Please follow this link to read my walkthrough publication about this personal project on Medium: https://medium.com/@tatiendat21/analysing-my-personal-netflixs-data-using-python-556516ebc425
 
 ## 🚀 About Me
-I'm an Accountant who is dedicated to pursue the new career path as a Data Analyst.
+A data enthusiast.
 
 
 ## Authors
